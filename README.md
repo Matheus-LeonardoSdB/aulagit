@@ -1,8 +1,8 @@
-# COMO FOI CRIADO
+# Como foi criado
 
 Esse aplicativo foi criado usando o Expo e React Native, então algumas bibliotecas terão de ser instaladas. Para não pesar ainda mais o arquivo, deixamos de lados as dependências padrão do NPM.
 
-# APÓS O GIT CLONE
+# Após o git clone
 
 Quando clonar o projeto, certifique-se de entrar na pasta do projeto, usando o seguinte comando no CMD/PowerShell
 
