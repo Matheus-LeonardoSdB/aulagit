@@ -1,6 +1,6 @@
 # Como foi criado
 
-Esse aplicativo foi criado usando o Expo e React Native, então algumas bibliotecas terão de ser instaladas. Para não pesar ainda mais o arquivo, deixamos de lados as dependências padrão do NPM.
+Esse aplicativo foi criado usando o [Expo](https://expo.dev) e [React Native](https://reactnative.dev), então algumas bibliotecas terão de ser instaladas. Para não pesar ainda mais o arquivo, deixamos de lados as dependências padrão do NPM.
 
 # Após o git clone
 
@@ -17,7 +17,7 @@ npm install
 ```
 Isso irá instalar automaticamente as dependências do projeto. Agora só resta iniciar
 
-# COMO INICIALIZAR
+# Como inicializar
 
 Para iniciar o projeto, será necessário usar o comando de start
 
