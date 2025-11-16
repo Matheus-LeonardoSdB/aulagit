@@ -4,13 +4,13 @@ Esse aplicativo foi criado usando o [Expo](https://expo.dev) e [React Native](ht
 
 # Após o git clone
 
-1. Quando clonar o projeto, certifique-se de entrar na pasta do projeto, usando o seguinte comando no CMD / PowerShell
+1.  Quando clonar o projeto, certifique-se de entrar na pasta do projeto, usando o seguinte comando no CMD / PowerShell
 
 ```bash
 cd confeitaria-app.
 ```
 
-2. Depois que entrar nessa pasta, basta digitar no console
+2.  Depois que entrar nessa pasta, basta digitar no console
 
 ```bash
 npm install
