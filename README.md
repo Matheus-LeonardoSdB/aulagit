@@ -1,10 +1,10 @@
 # Como foi criado
 
-Esse aplicativo foi criado usando o [Expo](https://expo.dev) e [React Native](https://reactnative.dev), então algumas bibliotecas terão de ser instaladas. Para não pesar ainda mais o arquivo, deixamos de lados as dependências padrão do NPM.
+Esse aplicativo foi criado usando o [Expo](https://expo.dev) e [React Native](https://reactnative.dev), então algumas bibliotecas terão de ser instaladas. Para não pesar ainda mais o arquivo, deixamos de lados as dependências padrão do [NPM](https://www.npmjs.com).
 
 # Após o git clone
 
-Quando clonar o projeto, certifique-se de entrar na pasta do projeto, usando o seguinte comando no CMD/PowerShell
+Quando clonar o projeto, certifique-se de entrar na pasta do projeto, usando o seguinte comando no CMD / PowerShell
 
 ```bash
 cd confeitaria-app.
