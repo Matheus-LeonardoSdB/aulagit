@@ -24,7 +24,7 @@ Para iniciar o projeto, será necessário usar o comando de start
 ```bash
 npx expo start
 ```
-Agora é só aguardar. Quando iniciar, terão diversas formas de visualizar o projeto. Como foi feito para ser executado em dispositivos mobile, recomendamos usar o android. No computador será necessário um emulador, mas no celular, basta baixar o app do [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&pli=1) e ler o QR Code apresentado e pronto, agora você já tem o app prontinho pra testar!
+Agora é só aguardar. Quando iniciar, terão diversas formas de visualizar o projeto. Como foi feito para ser executado em dispositivos mobile, recomendamos usar o android. No computador será necessário um emulador, mas no celular, basta baixar o app do [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&pli=1) e ler o QR Code apresentado e pronto, agora você já tem o app prontinho pra testar! Vale lembrar que para visualizar o aplicativo no seu celular usando o [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&pli=1), O celular precisa estar logado ao mesmo Wi-Fi que seu computador/notebook.
 
 
 
